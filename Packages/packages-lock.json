@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.gamedev3.library": {
+      "version": "https://gitlab.com/keattikorn_public/gamedev3library.git#upm",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "3003d2096ff250815dcea823ef3e4c64c31da305"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.8",
       "depth": 0,
