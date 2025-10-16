@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/HumanoidMiniGame.unity
     guid: b5f5e291b0e9629408b274d359b8a3c1
+  - enabled: 1
+    path: Assets/Scenes/Setting.unity
+    guid: 9a49456dc2a0a6a49a60212784bf1919
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
