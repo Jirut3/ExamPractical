@@ -12,8 +12,14 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 42045aa6cee7d8244b1618daead28417
   - enabled: 1
-    path: Assets/Scenes/GamePLay.unity
+    path: Assets/Scenes/CapsuleMiniGame.unity
     guid: dbaaaf9b4106bae40b8564792cd32f73
+  - enabled: 1
+    path: Assets/Scenes/StageSelect.unity
+    guid: 85a62477780ec70479dcd5ec4ecb2cf4
+  - enabled: 1
+    path: Assets/Scenes/HumanoidMiniGame.unity
+    guid: b5f5e291b0e9629408b274d359b8a3c1
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
